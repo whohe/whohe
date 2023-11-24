@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wilson Hernández Ortiz</h1>
 
-<h3 align='center'></h3>Linux user and web programmer, I like to use docker to organize my projects and maintain a clean and updated development environment, I also really like that I can start with any technology and interface, whether command line or graphical, so I have projects where I make plots and it works very well or in other scenarios I launch web servers and export them through a specific port.</h3>
+<h3 align='center'></h3>Linux user and web programmer, I like to use docker to organize my projects and maintain a clean and updated development environment, I also really like that I can start with any technology and interface, whether command line or graphical, so I have projects where I make plots and it works very well or in other scenarios I launch web servers and export them through a specific port; I am also an active VIM user, so among my public repositories you can find one dedicated to storing and sharing my preferred configurations of this amazing command line-based text editor.</h3>
 
-<h3 align="center"></h3>Usuario de linux y programador web, me gusta usar docker para organizar mis proyectos y mantener un amiente de desarrollo limpio y actualizado, tambien me gusta mucho que puedo iniciar con cualquier tecnologia e intefaz, ya sea de linea de comando o grafica, por lo que tengo proyectos donde hago plots y funciona muy bien o en otros escenarios lanzo servidores web y los exporto por algun puerto especifico. </h3>
+<h3 align="center"></h3>Usuario de linux y programador web, me gusta usar docker para organizar mis proyectos y mantener un amiente de desarrollo limpio y actualizado, tambien me gusta mucho que puedo iniciar con cualquier tecnologia e intefaz, ya sea de linea de comando o grafica, por lo que tengo proyectos donde hago plots y funciona muy bien o en otros escenarios lanzo servidores web y los exporto por algun puerto especifico; Tambien soy usuario activo de VIM, por lo que entre mis repositorios publicos puedes encontrar uno dedicado a almacenar y compartir mis configuraciones preferidas de este asombroso editor de texto basado en la linea de comandos.
+ </h3>
 
 
 <h3 align="left">Connect with me:</h3>
