@@ -2,7 +2,7 @@
 
 <h3 align='center'></h3>Linux user and web programmer, I like to use docker to organize my projects and maintain a clean and updated development environment, I also really like that I can start with any technology and interface, whether command line or graphical, so I have projects where I make plots and it works very well or in other scenarios I launch web servers and export them through a specific port.</h3>
 
-<h3 align="center">Usuario de linux y programador web, me gusta usar docker para organizar mis proyectos y mantener un amiente de desarrollo limpio y actualizado, tambien me gusta mucho que puedo iniciar con cualquier tecnologia e intefaz, ya sea de linea de comando o grafica, por lo que tengo proyectos donde hago plots y funciona muy bien o en otros escenarios lanzo servidores web y los exporto por algun puerto especifico. </h3>
+<h3 align="center"></h3>Usuario de linux y programador web, me gusta usar docker para organizar mis proyectos y mantener un amiente de desarrollo limpio y actualizado, tambien me gusta mucho que puedo iniciar con cualquier tecnologia e intefaz, ya sea de linea de comando o grafica, por lo que tengo proyectos donde hago plots y funciona muy bien o en otros escenarios lanzo servidores web y los exporto por algun puerto especifico. </h3>
 
 
 <h3 align="left">Connect with me:</h3>
