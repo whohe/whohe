@@ -6,7 +6,7 @@
  </h3>
 
 
-- 🌱 I’m currently learning **VUEjs**
+- 🌱 I’m currently learning **AngularJS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **orfeoGPL project**
 
-- 📫 How to reach me **wilsonhernandezortiz@gmail.com**
+- 📫 How to reach me **woosacks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
