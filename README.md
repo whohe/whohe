@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wilson Hernández Ortiz</h1>
 
-<h3 align='center'></h3>Linux user and web programmer, I like to use docker to organize my projects and maintain a clean and updated development environment, I also really like that I can start with any technology and interface, whether command line or graphical, so I have projects where I make plots and it works very well or in other scenarios I launch web servers and export them through a specific port; I am also an active VIM user, so among my public repositories you can find one dedicated to storing and sharing my preferred configurations of this amazing command line-based text editor.</h3>
+<h3 align='center'></h3>Soy un desarrollador de software libre apasionado con una sólida experiencia en tecnologías web tanto de backend como de frontend. Mi carrera en el desarrollo de software comenzó con una fascinación por el potencial de la web para conectar personas y facilitar el acceso a la información. Desde entonces, he dedicado mi tiempo y habilidades a contribuir a proyectos de software libre, colaborando con comunidades globales para crear herramientas y aplicaciones que son accesibles y útiles para todos.
+</h3>
+<h3 align='center'></h3>
+En el ámbito del backend, tengo una amplia experiencia trabajando con lenguajes como PHP, Python y JavaScript (Node.js). He desarrollado e implementado numerosas aplicaciones web, gestionando bases de datos con MySQL y PostgreSQL, y asegurando que las aplicaciones sean escalables y eficientes. Mi trabajo no se detiene en la creación de código; también me he especializado en la configuración y optimización de servidores Apache, asegurando que las aplicaciones web funcionen de manera fluida y segura. Tengo un profundo conocimiento de la configuración de servidores, incluyendo la gestión de módulos, la optimización del rendimiento y la implementación de prácticas de seguridad robustas.
+</h3>
+<h3 align="center"></h3>
+En el frontend, mi experiencia abarca el uso de tecnologías como HTML5, CSS3 y JavaScript, junto con frameworks modernos como Angular.js. Me esfuerzo por crear interfaces de usuario intuitivas y receptivas que ofrezcan una excelente experiencia al usuario final. 
 
-<h3 align="center"></h3>Usuario de linux y programador web, me gusta usar docker para organizar mis proyectos y mantener un amiente de desarrollo limpio y actualizado, tambien me gusta mucho que puedo iniciar con cualquier tecnologia e intefaz, ya sea de linea de comando o grafica, por lo que tengo proyectos donde hago plots y funciona muy bien o en otros escenarios lanzo servidores web y los exporto por algun puerto especifico; Tambien soy usuario activo de VIM, por lo que entre mis repositorios publicos puedes encontrar uno dedicado a almacenar y compartir mis configuraciones preferidas de este asombroso editor de texto basado en la linea de comandos.
+Mi compromiso con el software libre no solo se refleja en mi trabajo técnico, sino también en mi participación en comunidades y eventos, donde comparto conocimientos y aprendo de otros profesionales. Estoy siempre en busca de nuevas oportunidades para colaborar y contribuir a proyectos que tengan un impacto positivo en la sociedad.
  </h3>
 
 
