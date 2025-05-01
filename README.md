@@ -20,7 +20,7 @@ Mi compromiso con el software libre no solo se refleja en mi trabajo técnico, s
 
 - 💬 Ask me about **orfeoGPL project**
 
-- 📫 How to reach me **woosacks@gmail.com**
+- 📫 How to reach me **wilsonhernandezortiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
