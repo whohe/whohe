@@ -18,7 +18,7 @@ Mi compromiso con el software libre no solo se refleja en mi trabajo técnico, s
 
 - 🤝 I’m looking for help with **lstm recurrent neural networks**
 
-- 💬 Ask me about **orfeoGPL project**
+- 💬 Ask me about **OrfeoGPL project**
 
 - 📫 How to reach me **wilsonhernandezortiz@gmail.com**
 
@@ -33,6 +33,7 @@ Mi compromiso con el software libre no solo se refleja en mi trabajo técnico, s
 
 <h3 align="left">Proyectos destacados:</h3>
 <ul>
+ <li><a href="https://github.com/whohe/pendrive/">Live Usb Pendrive</a></li>
  <li><a href="https://whohe.github.io/capacitor-sqlcipher-handler/">Capacitor SQLCipher Handler</a></li>
 </ul>
 
